@@ -1,0 +1,422 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 25.99,
+      "stock": 150,
+      "supplier": "TechSupply Co.",
+      "rating": 4.5,
+      "description": "Ergonomic wireless mouse with long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 79.5,
+      "stock": 75,
+      "supplier": "GamerGear Inc.",
+      "rating": 4.8,
+      "description": "RGB mechanical keyboard with customizable switches."
+    },
+    {
+      "id": 3,
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "price": 19.99,
+      "stock": 200,
+      "supplier": "OfficePro",
+      "rating": 4.2,
+      "description": "Adjustable aluminum laptop stand for better ergonomics."
+    },
+    {
+      "id": 4,
+      "name": "USB-C Hub",
+      "category": "Accessories",
+      "price": 35,
+      "stock": 120,
+      "supplier": "ConnectAll",
+      "rating": 4.6,
+      "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and card readers."
+    },
+    {
+      "id": 5,
+      "name": "Noise Cancelling Headphones",
+      "category": "Audio",
+      "price": 149.99,
+      "stock": 60,
+      "supplier": "SoundWave",
+      "rating": 4.9,
+      "description": "Hi-Res audio over-ear headphones with active noise cancellation."
+    },
+    {
+      "id": 6,
+      "name": "4K Monitor",
+      "category": "Electronics",
+      "price": 299,
+      "stock": 40,
+      "supplier": "ViewPerfect",
+      "rating": 4.7,
+      "description": "27-inch 4K UHD IPS Monitor with HDR support."
+    },
+    {
+      "id": 7,
+      "name": "Webcam HD 1080p",
+      "category": "Electronics",
+      "price": 45.5,
+      "stock": 90,
+      "supplier": "StreamLive",
+      "rating": 4.3,
+      "description": "Full HD webcam with built-in microphone and privacy cover."
+    },
+    {
+      "id": 8,
+      "name": "Ergonomic Chair",
+      "category": "Furniture",
+      "price": 180,
+      "stock": 25,
+      "supplier": "ComfortZone",
+      "rating": 4.6,
+      "description": "Mesh back ergonomic office chair with lumbar support."
+    },
+    {
+      "id": 9,
+      "name": "Portable SSD 1TB",
+      "category": "Storage",
+      "price": 89.99,
+      "stock": 110,
+      "supplier": "DataFast",
+      "rating": 4.8,
+      "description": "High-speed portable SSD with USB-C connectivity."
+    },
+    {
+      "id": 10,
+      "name": "Smartwatch",
+      "category": "Wearables",
+      "price": 199,
+      "stock": 55,
+      "supplier": "FitTech",
+      "rating": 4.4,
+      "description": "Fitness tracker smartwatch with heart rate monitor and GPS."
+    },
+    {
+      "id": 11,
+      "name": "Bluetooth Speaker",
+      "category": "Audio",
+      "price": 59.95,
+      "stock": 130,
+      "supplier": "SoundWave",
+      "rating": 4.5,
+      "description": "Waterproof portable Bluetooth speaker with rich bass."
+    },
+    {
+      "id": 12,
+      "name": "Gaming Mousepad",
+      "category": "Accessories",
+      "price": 15,
+      "stock": 300,
+      "supplier": "GamerGear Inc.",
+      "rating": 4.7,
+      "description": "Extended gaming mousepad with anti-fray stitching."
+    },
+    {
+      "id": 13,
+      "name": "Tablet 10-inch",
+      "category": "Electronics",
+      "price": 230,
+      "stock": 65,
+      "supplier": "TabWorld",
+      "rating": 4.1,
+      "description": "Android tablet with 128GB storage and octa-core processor."
+    },
+    {
+      "id": 14,
+      "name": "Printer All-in-One",
+      "category": "Office",
+      "price": 120.75,
+      "stock": 30,
+      "supplier": "PrintEasy",
+      "rating": 4,
+      "description": "Wireless color inkjet printer with scan and copy functions."
+    },
+    {
+      "id": 15,
+      "name": "Standing Desk Converter",
+      "category": "Furniture",
+      "price": 150,
+      "stock": 40,
+      "supplier": "OfficePro",
+      "rating": 4.5,
+      "description": "Adjustable height standing desk converter for existing desks."
+    },
+    {
+      "id": 16,
+      "name": "Wireless Earbuds",
+      "category": "Audio",
+      "price": 75,
+      "stock": 180,
+      "supplier": "SoundWave",
+      "rating": 4.6,
+      "description": "True wireless earbuds with charging case and touch controls."
+    },
+    {
+      "id": 17,
+      "name": "External Hard Drive 2TB",
+      "category": "Storage",
+      "price": 65,
+      "stock": 85,
+      "supplier": "DataFast",
+      "rating": 4.3,
+      "description": "USB 3.0 portable external hard drive for backups."
+    },
+    {
+      "id": 18,
+      "name": "Monitor Arm Mount",
+      "category": "Accessories",
+      "price": 39.99,
+      "stock": 95,
+      "supplier": "ViewPerfect",
+      "rating": 4.7,
+      "description": "Single monitor desk mount with gas spring adjustment."
+    },
+    {
+      "id": 19,
+      "name": "Smart Light Bulb",
+      "category": "Smart Home",
+      "price": 12.5,
+      "stock": 250,
+      "supplier": "ConnectAll",
+      "rating": 4.2,
+      "description": "Wi-Fi RGB smart LED light bulb, compatible with Alexa/Google."
+    },
+    {
+      "id": 20,
+      "name": "Digital Drawing Tablet",
+      "category": "Electronics",
+      "price": 99,
+      "stock": 50,
+      "supplier": "ArtPro",
+      "rating": 4.8,
+      "description": "Graphics tablet with battery-free stylus for digital art."
+    },
+    {
+      "id": 21,
+      "name": "Backpack for Laptop",
+      "category": "Accessories",
+      "price": 49.9,
+      "stock": 100,
+      "supplier": "TravelLite",
+      "rating": 4.6,
+      "description": "Water-resistant laptop backpack with USB charging port."
+    },
+    {
+      "id": 22,
+      "name": "Coffee Maker",
+      "category": "Kitchen",
+      "price": 60,
+      "stock": 70,
+      "supplier": "BrewMaster",
+      "rating": 4.4,
+      "description": "Drip coffee maker with programmable timer and glass carafe."
+    },
+    {
+      "id": 23,
+      "name": "Electric Toothbrush",
+      "category": "Personal Care",
+      "price": 35,
+      "stock": 120,
+      "supplier": "CleanSmile",
+      "rating": 4.9,
+      "description": "Rechargeable sonic toothbrush with multiple brushing modes."
+    },
+    {
+      "id": 24,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 22,
+      "stock": 160,
+      "supplier": "ZenFlow",
+      "rating": 4.5,
+      "description": "Eco-friendly non-slip TPE yoga mat with carrying strap."
+    },
+    {
+      "id": 25,
+      "name": "Action Camera",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 45,
+      "supplier": "AdventureCam",
+      "rating": 4.7,
+      "description": "4K waterproof action camera with image stabilization."
+    },
+    {
+      "id": 26,
+      "name": "Gaming Headset",
+      "category": "Audio",
+      "price": 69.99,
+      "stock": 80,
+      "supplier": "GamerGear Inc.",
+      "rating": 4.6,
+      "description": "Surround sound gaming headset with noise-cancelling mic."
+    },
+    {
+      "id": 27,
+      "name": "Office Desk Lamp",
+      "category": "Furniture",
+      "price": 29.5,
+      "stock": 115,
+      "supplier": "OfficePro",
+      "rating": 4.3,
+      "description": "LED desk lamp with adjustable brightness and color temperature."
+    },
+    {
+      "id": 28,
+      "name": "Wireless Charger",
+      "category": "Accessories",
+      "price": 18.99,
+      "stock": 220,
+      "supplier": "TechSupply Co.",
+      "rating": 4.4,
+      "description": "Qi-certified fast wireless charging pad for smartphones."
+    },
+    {
+      "id": 29,
+      "name": "Smart Plug",
+      "category": "Smart Home",
+      "price": 9.99,
+      "stock": 300,
+      "supplier": "ConnectAll",
+      "rating": 4.1,
+      "description": "Wi-Fi smart plug, works with Alexa and Google Home, no hub required."
+    },
+    {
+      "id": 30,
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "price": 89,
+      "stock": 50,
+      "supplier": "CleanAir Systems",
+      "rating": 4.7,
+      "description": "HEPA air purifier for home, removes allergens and odors."
+    },
+    {
+      "id": 31,
+      "name": "Blender",
+      "category": "Kitchen",
+      "price": 45,
+      "stock": 90,
+      "supplier": "BlendEasy",
+      "rating": 4.5,
+      "description": "Personal countertop blender for smoothies and shakes."
+    },
+    {
+      "id": 32,
+      "name": "Resistance Bands Set",
+      "category": "Fitness",
+      "price": 16.5,
+      "stock": 150,
+      "supplier": "FitStrong",
+      "rating": 4.6,
+      "description": "Set of 5 resistance loop bands for exercise and physical therapy."
+    },
+    {
+      "id": 33,
+      "name": "Document Scanner",
+      "category": "Office",
+      "price": 75.99,
+      "stock": 35,
+      "supplier": "ScanPro",
+      "rating": 4.4,
+      "description": "Portable document scanner with OCR and wireless connectivity."
+    },
+    {
+      "id": 34,
+      "name": "Smart Doorbell",
+      "category": "Smart Home",
+      "price": 99.99,
+      "stock": 40,
+      "supplier": "HomeSecure",
+      "rating": 4.8,
+      "description": "Video doorbell with motion detection and two-way audio."
+    },
+    {
+      "id": 35,
+      "name": "Electric Kettle",
+      "category": "Kitchen",
+      "price": 34.99,
+      "stock": 80,
+      "supplier": "BrewMaster",
+      "rating": 4.5,
+      "description": "1.7L electric kettle with auto shut-off and boil-dry protection."
+    },
+    {
+      "id": 36,
+      "name": "Wireless Gaming Controller",
+      "category": "Gaming",
+      "price": 49.99,
+      "stock": 100,
+      "supplier": "GamerGear Inc.",
+      "rating": 4.6,
+      "description": "Bluetooth controller compatible with PC and consoles."
+    },
+    {
+      "id": 37,
+      "name": "Smart Scale",
+      "category": "Fitness",
+      "price": 29.99,
+      "stock": 90,
+      "supplier": "FitTech",
+      "rating": 4.3,
+      "description": "Bluetooth smart scale measuring weight, BMI, and body fat."
+    },
+    {
+      "id": 38,
+      "name": "Noise-Isolating Earplugs",
+      "category": "Personal Care",
+      "price": 12.99,
+      "stock": 200,
+      "supplier": "QuietLife",
+      "rating": 4.5,
+      "description": "Reusable silicone earplugs for noise reduction."
+    },
+    {
+      "id": 39,
+      "name": "Electric Shaver",
+      "category": "Personal Care",
+      "price": 55.5,
+      "stock": 60,
+      "supplier": "CleanSmile",
+      "rating": 4.7,
+      "description": "Rechargeable electric shaver with 3 floating heads."
+    },
+    {
+      "id": 40,
+      "name": "Portable Projector",
+      "category": "Electronics",
+      "price": 210,
+      "stock": 30,
+      "supplier": "ViewPerfect",
+      "rating": 4.2,
+      "description": "Compact portable projector with HDMI and wireless casting."
+    },
+    {
+      "name": "Chaos",
+      "category": "Electronics",
+      "price": 8,
+      "stock": 8,
+      "supplier": "Techie",
+      "description": "chchchchch",
+      "id": 41
+    },
+    {
+      "name": "Bassem",
+      "category": "Electronics",
+      "price": 8,
+      "stock": 8,
+      "supplier": "Techie",
+      "description": "desdesdesdes",
+      "id": 42
+    }
+  ]
+}
